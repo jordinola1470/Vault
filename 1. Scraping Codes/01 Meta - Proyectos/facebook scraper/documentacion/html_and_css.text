@@ -1,0 +1,12 @@
+Para el codigo de CSS SE DEBE DE BUSCAR LA CLASE CSS ADECUADA EN LOS POST DE FACEBOOK Y EN LOS VIDEOS.
+
+Tomar en cuenta que en META el captcha es el scroll de los comentarios
+
+
+
+# comentarios = driver.find_elements(By.CSS_SELECTOR,"div.xv55zj0.x1vvkbs.x1rg5ohu.xxymvpz") #CLASE DEL CONTENEDOR DE NOMBRE DE USUARIO Y SU COMENTARIO
+# comentarios = driver.find_elements(By.CSS_SELECTOR, "div[role='article'] div[dir='auto']") #POR DIV EN CSS PARA DINAMICO PERO NO CAPTURA USUARIOS SOLO COMENTARIOS.
+
+
+ULTIMA CLASE
+11/03/2025 div.x1r8uery.x1iyjqo2.x6ikm8r.x10wlt62.x1pi30zi
