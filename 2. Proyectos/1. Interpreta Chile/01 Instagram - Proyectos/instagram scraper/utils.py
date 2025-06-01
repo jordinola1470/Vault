@@ -98,3 +98,39 @@ def modelamiento(texto):
     resultados.append([nombre_usuario, bloque_datos, hora, reacciones])
 
     return resultados
+
+
+def extraer_comentarios_desde_lista(lista_textos):
+    resultados = []
+    for texto in lista_textos:
+        lineas = texto.split('\n')
+        nombre_actual = None
+        comentario_actual = []
+
+        ignorar = {'Me gusta', 'Responder'}
+        
+        for linea in lineas:
+            linea = linea.strip()
+            if not linea:
+                continue
+            if any(palabra in linea for palabra in ignorar):
+                continue
+            if linea.endswith('sem') or linea.endswith('semResponder'):
+                continue
+            
+            if ' ' not in linea and not any(char.isdigit() for char in linea) and not any(c in linea for c in ['😂','🤮','🎪','🆘']):
+                if nombre_actual is not None:
+                    resultados.append([nombre_actual, ' '.join(comentario_actual).strip()])
+                nombre_actual = linea
+                comentario_actual = []
+            else:
+                comentario_actual.append(linea)
+        
+        if nombre_actual is not None:
+            resultados.append([nombre_actual, ' '.join(comentario_actual).strip()])
+    return resultados
+
+
+# resultado = extraer_comentarios_desde_lista(texto_scrap)
+# for r in resultado:
+#     print(r)
