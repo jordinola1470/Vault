@@ -1,0 +1,149 @@
+Un post en TikTok contiene:
+
+Una caja de comentarios de tamaño infinito:
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]  ... 
+
+y sus respectivos comments ... /div[i]/div[1]/div[1]/a/span dado i para cada comment
+
+Usuario: 
+<a class="tiktok-bhsg9d-StyledUserLinkName e1g2efjf4" href="/@richard.anze">
+<span data-e2e="comment-username-1" class="tiktok-mfqbp1-SpanUserNameText e1g2efjf3">Richard Anze </span>
+</a>
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/a/span
+
+Fecha:
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/p[2]/span[1]
+
+Comment:
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/p[1]/span
+
+Likes de un comment:
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/p[2]/div/span
+
+Respuestas al comment:
+
+	Usuario que hace el comment #1:
+	<a class="tiktok-bhsg9d-StyledUserLinkName e1g2efjf4" href="/@julio_florez21">
+	<span data-e2e="comment-username-2" class="tiktok-mfqbp1-SpanUserNameText e1g2efjf3">Julio </span>
+	</a>
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/a
+
+	Fecha comment #1:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/p[2]/span[1]
+
+	Likes comment #1:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/p[2]/div/span
+	
+	Comment #1:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+	
+	Usuario que hace el comment #2:
+	<a class="tiktok-bhsg9d-StyledUserLinkName e1g2efjf4" href="/@gustavodaga">
+	<span data-e2e="comment-username-2" class="tiktok-mfqbp1-SpanUserNameText e1g2efjf3">Gustavo Daga Prado </span>
+	</a>
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/a
+
+	Fchas comment #2:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/div[1]/p[2]/span[1]
+	
+	Likes comment #2:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/div[1]/p[2]/div/span
+
+	Comment #2:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/div[1]/p[1]
+
+	Usuario que hace el comment #3:
+	<a class="tiktok-bhsg9d-StyledUserLinkName e1g2efjf4" href="/@userf5aqznaxc0"><span data-e2e="comment-username-2" class="tiktok-mfqbp1-SpanUserNameText e1g2efjf3">Bybro 
+	</span>
+	</a>
+	
+	Fechas comment #3:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[3]/div[1]/p[2]/span[1]
+
+	Likes comment #3:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[3]/div[1]/p[2]/div/span
+
+	Comment #3:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[3]/div[1]/p[1]
+
+	...
+	Comment #9:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div/div[4]/div[2]/div[1]/div[2]/div[9]/div[1]/p[1]
+Luego puede existir uno o más botones de ver más:
+
+
+	Primer botón de ver más del primer comment:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div/p
+
+	Segundo botón de ver más del primer comment:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[4]/p[1]
+	
+	Tercer botón de ver más del primer comment:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/div[2]/div[7]/p[1]
+
+	Primer botón de ver más del segundo comment:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/div[2]/div/p
+
+	Segundo botón de ver más del segundo comment:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/div[2]/div[4]/p[1]
+
+Segundo comentario global del post:
+
+Usuario: 
+<a class="tiktok-bhsg9d-StyledUserLinkName e1g2efjf4" href="/@csuprato"><span data-e2e="comment-username-1" class="tiktok-mfqbp1-SpanUserNameText e1g2efjf3">CARLOS URDANETA PRAT </span></a>
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/div[1]/div[1]/a/span
+
+Fecha:
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/div[1]/div[1]/p[2]/span[1]
+
+Comment:
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/div[1]/div[1]/p[1]/span
+
+Likes de un comment:
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/div[1]/div[1]/p[2]/div/span
+
+...
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div/p
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[4]/p[1]
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[4]/p[1]
+
+
+...
+	Full path to naming username #1 post #1:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/a
+
+	Full path to naming username #2 post #1:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/div[1]/a
+
+	Full path to naming username #1 post #2:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/a
+
+	Full path to naming username #2 post #2:
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/a
+
+	/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[
+
+		
+
+...
+vvvvvvvvv	
+En resumen tenemos:
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div/div[4]/div[2]/div[comment_exterior]/div[2]/div[comment_interno]/div[1]/a/span
+
+El que no funciona:
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div/div[4]/div[2]/div[1]/div[1]/div[1]/a/span
+
+El actual y funcional:
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/a/span
+
+... error final
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[9]/div[1]/p[1]/span
+
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/div[2]/div[33]/div[1]/a
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/div[2]/div[32]/div[1]/p[1]
+
+/html/body/div[2]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[2]/div[3]/div[2]/div[21]/div[1]/p[1]/span
+
