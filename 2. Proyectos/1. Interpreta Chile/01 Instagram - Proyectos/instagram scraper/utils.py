@@ -1,3 +1,8 @@
+
+import re
+
+
+
 def limpiar_comentario(texto):
     # Primer split: separa usuario y comentario sucio
     partes = texto.split("\n", 1)
@@ -100,37 +105,49 @@ def modelamiento(texto):
     return resultados
 
 
-def extraer_comentarios_desde_lista(lista_textos):
-    resultados = []
-    for texto in lista_textos:
-        lineas = texto.split('\n')
-        nombre_actual = None
-        comentario_actual = []
 
-        ignorar = {'Me gusta', 'Responder'}
-        
+
+
+def limpiar_comentarios_(data_cruda):
+    datos_limpios = []
+
+    for bloque in data_cruda:
+        lineas = bloque.strip().split("\n")
+
+        usuario = None
+        comentario = []
+        likes = 1  # valor por defecto si solo dice "Me gusta"
+
         for linea in lineas:
             linea = linea.strip()
-            if not linea:
-                continue
-            if any(palabra in linea for palabra in ignorar):
-                continue
-            if linea.endswith('sem') or linea.endswith('semResponder'):
-                continue
-            
-            if ' ' not in linea and not any(char.isdigit() for char in linea) and not any(c in linea for c in ['😂','🤮','🎪','🆘']):
-                if nombre_actual is not None:
-                    resultados.append([nombre_actual, ' '.join(comentario_actual).strip()])
-                nombre_actual = linea
-                comentario_actual = []
-            else:
-                comentario_actual.append(linea)
-        
-        if nombre_actual is not None:
-            resultados.append([nombre_actual, ' '.join(comentario_actual).strip()])
-    return resultados
 
+            # Detectar nombre de usuario con "X sem"
+            match_usuario = re.match(r'^([a-zA-Z0-9._]+)\s+\d+\s+sem$', linea)
+            if match_usuario:
+                usuario = match_usuario.group(1)
+                continue
 
-# resultado = extraer_comentarios_desde_lista(texto_scrap)
-# for r in resultado:
-#     print(r)
+            # Detectar nombre de usuario sin fecha (casos raros como "eldiablodelcanto")
+            if not usuario and re.match(r'^[a-zA-Z0-9._]+$', linea):
+                usuario = linea
+                continue
+
+            # Detectar likes con número
+            match_likes = re.match(r'^(\d+)\s+Me gusta$', linea)
+            if match_likes:
+                likes = int(match_likes.group(1))
+                continue
+
+            # Ignorar líneas innecesarias
+            if "Responder" in linea or "Ver las" in linea:
+                continue
+
+            # Agregar comentario si no está vacío
+            if linea and "Me gusta" not in linea:
+                comentario.append(linea)
+
+        if usuario and comentario:
+            texto = " ".join(comentario).strip()
+            datos_limpios.append([usuario, texto, likes])
+
+    return datos_limpios
