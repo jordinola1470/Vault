@@ -1,0 +1,711 @@
+1709574745090	geckodriver	INFO	Listening on 127.0.0.1:49449
+1709574745588	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileoiDZ54"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709574746420	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709574747198	Marionette	INFO	Listening on port 49471
+Read port: 49471
+WebDriver BiDi listening on ws://127.0.0.1:49450
+1709574747445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49450/devtools/browser/67c099a4-e3ca-42f1-ad8f-83f35efeb9c3
+1709574752965	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709574778308	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 21 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+1709574943753	Marionette	INFO	Stopped listening on port 49471
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1709574989793	geckodriver	INFO	Listening on 127.0.0.1:49659
+1709574989800	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofiledc3aKH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709574990316	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709574990826	Marionette	INFO	Listening on port 49666
+WebDriver BiDi listening on ws://127.0.0.1:49660
+Read port: 49666
+1709574991110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49660/devtools/browser/2e7bb69b-b162-4a20-9730-64e5ad49c32b
+1709574996016	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709575020349	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 1099 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+1709575309244	geckodriver	INFO	Listening on 127.0.0.1:49833
+1709575309761	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileWvXXeq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709575310300	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709575310706	Marionette	INFO	Listening on port 49843
+Read port: 49843
+WebDriver BiDi listening on ws://127.0.0.1:49834
+1709575310933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49834/devtools/browser/73cb7f9e-75cc-4794-9acd-6092757c041f
+1709575315496	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709575340944	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 3793 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+1709575397619	Marionette	INFO	Stopped listening on port 49843
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1709575399412	Marionette	INFO	Stopped listening on port 49666
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1709575405716	geckodriver	INFO	Listening on 127.0.0.1:49942
+1709575406228	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilelRtL32"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709575406722	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709575407100	Marionette	INFO	Listening on port 49950
+WebDriver BiDi listening on ws://127.0.0.1:49943
+Read port: 49950
+1709575407376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49943/devtools/browser/a88281a1-8c04-4120-a3aa-ba8bbd4b9a2f
+1709575411842	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709575437787	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 4492 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 21428: Script terminated by timeout at:
+getPlayer@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:21428:122
+jE@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:6868:40
+iE@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:6865:169
+f.getPlayerManager@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:26578:37
+f.onKeyUpEvent@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:26577:160
+a@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:7015:151
+
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+1709575576871	Marionette	INFO	Stopped listening on port 49950
+JavaScript error: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval, line 4492: TypeError: can't access dead object
+1709575584678	geckodriver	INFO	Listening on 127.0.0.1:50127
+1709575585196	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofile7gsStt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709575585708	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709575586122	Marionette	INFO	Listening on port 50135
+WebDriver BiDi listening on ws://127.0.0.1:50128
+Read port: 50135
+1709575586400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50128/devtools/browser/e7fc648a-154b-4f1e-a523-bff41ccb583e
+1709575590819	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+[Child 90934, MediaDecoderStateMachine #1] WARNING: Decoder=10cf7b300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 90934, MediaDecoderStateMachine #1] WARNING: Decoder=10cf7b300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+1709575615752	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709575969696	geckodriver	INFO	Listening on 127.0.0.1:50334
+1709575970216	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileZfMcQD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709575970724	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709575971110	Marionette	INFO	Listening on port 50342
+WebDriver BiDi listening on ws://127.0.0.1:50335
+Read port: 50342
+1709575971397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50335/devtools/browser/cf896395-9182-490a-9ed2-5ab0e42026d1
+1709575976148	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709576000971	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 4657 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 542 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+1709576050567	Marionette	INFO	Stopped listening on port 50342
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1709576051274	Marionette	INFO	Stopped listening on port 50135
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1709576062503	geckodriver	INFO	Listening on 127.0.0.1:50441
+1709576062510	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofiledbJtGQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709576062999	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709576063412	Marionette	INFO	Listening on port 50447
+WebDriver BiDi listening on ws://127.0.0.1:50442
+Read port: 50447
+1709576063764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50442/devtools/browser/70bcd93f-8981-4869-8c84-b3a6381dfc22
+1709576068341	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+[Child 91217, MediaDecoderStateMachine #1] WARNING: Decoder=136059400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 91217, MediaDecoderStateMachine #1] WARNING: Decoder=136059400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+1709576093024	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709576238743	geckodriver	INFO	Listening on 127.0.0.1:50594
+1709576239265	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilenXHh1G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709576239778	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709576240203	Marionette	INFO	Listening on port 50602
+WebDriver BiDi listening on ws://127.0.0.1:50595
+Read port: 50602
+1709576240480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50595/devtools/browser/6557ef03-a43f-4dae-87d8-99321fe1a105
+1709576245219	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709576269929	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 177 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js, line 8869: Script terminated by timeout at:
+g.k.update@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:8869:58
+yV.prototype.Sa@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:10938:218
+yV/d<@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:5127:348
+g.k.ra@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:8465:291
+g.YF.prototype.ra@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:8862:72
+g.k.og@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:11780:181
+T2a/this.D@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:5936:139
+
+1709576383678	Marionette	INFO	Stopped listening on port 50602
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 523 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709576388824	Marionette	INFO	Stopped listening on port 50447
+JavaScript error: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval, line 523: TypeError: can't access dead object
+1709576397750	geckodriver	INFO	Listening on 127.0.0.1:50737
+1709576398270	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofile9LHTA2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709576398780	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709576399153	Marionette	INFO	Listening on port 50744
+WebDriver BiDi listening on ws://127.0.0.1:50738
+Read port: 50744
+1709576399502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50738/devtools/browser/13f6f70e-e7a4-4bc2-8ef6-b2803bede9de
+1709576403875	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709576429317	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/7vEzNoryYsA7EpvUhbfIa9YaTD8kthBTv2MD7n7t8t0.js line 2 > eval line 5105 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+1709576567876	geckodriver	INFO	Listening on 127.0.0.1:50866
+1709576567884	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilelEOQ5e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709576568375	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709576568757	Marionette	INFO	Listening on port 50870
+WebDriver BiDi listening on ws://127.0.0.1:50867
+Read port: 50870
+1709576569111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50867/devtools/browser/a0cf1d8e-22fd-4397-a828-1613f6b822df
+1709576573699	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709576599188	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709576647995	geckodriver	INFO	Listening on 127.0.0.1:50958
+1709576648003	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileMYAQye"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709576648508	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709576648922	Marionette	INFO	Listening on port 50962
+WebDriver BiDi listening on ws://127.0.0.1:50959
+Read port: 50962
+1709576649270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50959/devtools/browser/d1923c14-d2d3-4286-97cc-069806269785
+1709576653785	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709576678626	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 4965 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+1709576739846	geckodriver	INFO	Listening on 127.0.0.1:51064
+1709576739854	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilenXpzYG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709576740353	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709576740738	Marionette	INFO	Listening on port 51068
+WebDriver BiDi listening on ws://127.0.0.1:51065
+Read port: 51068
+1709576741019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51065/devtools/browser/f0c6aef4-22b9-4c23-a4f7-b3508ff68f38
+1709576745617	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+[Child 91886, MediaDecoderStateMachine #1] WARNING: Decoder=11c2e6a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 91886, MediaDecoderStateMachine #1] WARNING: Decoder=11c2e6a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 91886, MediaDecoderStateMachine #1] WARNING: Decoder=11cb38300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 91886, MediaDecoderStateMachine #1] WARNING: Decoder=11cb38300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+1709576770462	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 2658 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+1709577057053	geckodriver	INFO	Listening on 127.0.0.1:51331
+1709577057569	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofile9KpGWw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709577058089	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709577058479	Marionette	INFO	Listening on port 51340
+WebDriver BiDi listening on ws://127.0.0.1:51332
+Read port: 51340
+1709577058837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51332/devtools/browser/bc55c2f0-7d78-467d-97f5-437cee32107a
+1709577063463	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+[Child 92215, MediaDecoderStateMachine #1] WARNING: Decoder=11a4f3300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 92215, MediaDecoderStateMachine #1] WARNING: Decoder=11a4f3300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+1709577088106	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 4609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+1709577113473	geckodriver	INFO	Listening on 127.0.0.1:51417
+1709577113989	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofiled2nlfP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709577114519	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709577114931	Marionette	INFO	Listening on port 51423
+WebDriver BiDi listening on ws://127.0.0.1:51418
+Read port: 51423
+1709577115203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51418/devtools/browser/32689ed8-7ec4-4ca8-84f5-806c865680bb
+1709577119851	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709577146245	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 6744 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+1709577179277	Marionette	INFO	Stopped listening on port 51340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1709577180683	Marionette	INFO	Stopped listening on port 51423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1709577182683	Marionette	INFO	Stopped listening on port 51068
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1709577188948	geckodriver	INFO	Listening on 127.0.0.1:51522
+1709577189466	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilez3p5Hj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709577189979	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709577190372	Marionette	INFO	Listening on port 51528
+WebDriver BiDi listening on ws://127.0.0.1:51523
+Read port: 51528
+1709577190724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51523/devtools/browser/3d92da2d-5eae-48b3-be9e-e0917925d503
+1709577195040	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709577220008	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 933 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1677: Script terminated by timeout at:
+c@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1677:122
+e@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1686:371
+
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+1709577255253	Marionette	INFO	Stopped listening on port 51528
+JavaScript error: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval, line 933: TypeError: can't access dead object
+1709577259017	geckodriver	INFO	Listening on 127.0.0.1:51618
+1709577259536	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofiles2Fjry"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709577260052	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709577260467	Marionette	INFO	Listening on port 51624
+Read port: 51624
+WebDriver BiDi listening on ws://127.0.0.1:51619
+1709577260690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51619/devtools/browser/de97975d-1a7f-4267-9c5e-88f9463b7194
+1709577265272	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709577290077	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1709577527172	geckodriver	INFO	Listening on 127.0.0.1:63426
+1709577527179	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileqInnUP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709577527680	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709577528097	Marionette	INFO	Listening on port 63465
+Read port: 63465
+WebDriver BiDi listening on ws://127.0.0.1:63427
+1709577528324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63427/devtools/browser/8ffaecea-b225-4e36-bfcb-ef5cf0671430
+1709577532939	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709577557705	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1709577694665	geckodriver	INFO	Listening on 127.0.0.1:51640
+1709577695183	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileqCiPqV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709577695712	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709577696102	Marionette	INFO	Listening on port 51701
+WebDriver BiDi listening on ws://127.0.0.1:51641
+Read port: 51701
+1709577696456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51641/devtools/browser/10a03171-ef87-48fc-af93-adef6a116fad
+1709577701081	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709577725966	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1709578017814	geckodriver	INFO	Listening on 127.0.0.1:60420
+1709578018331	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileUJbw7O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709578018849	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709578019269	Marionette	INFO	Listening on port 60475
+Read port: 60475
+WebDriver BiDi listening on ws://127.0.0.1:60421
+1709578019492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60421/devtools/browser/ed5377f7-69e9-4c3c-8548-2ea65c60ec68
+1709578023952	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709578048904	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 7232 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+[Child 92724, MediaDecoderStateMachine #1] WARNING: 10b573a40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:324
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 7232 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1709579427650	geckodriver	INFO	Listening on 127.0.0.1:57198
+1709579428168	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileI9mQIj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709579428684	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709579429067	Marionette	INFO	Listening on port 57274
+WebDriver BiDi listening on ws://127.0.0.1:57199
+Read port: 57274
+1709579429419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57199/devtools/browser/88f108b9-cdfa-45c8-822a-b7740a2804ef
+1709579434026	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709579460736	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1709579816340	geckodriver	INFO	Listening on 127.0.0.1:51353
+1709579816858	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileC9QGal"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709579817379	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709579817796	Marionette	INFO	Listening on port 51409
+WebDriver BiDi listening on ws://127.0.0.1:51354
+Read port: 51409
+1709579818143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51354/devtools/browser/acc82b2d-3163-4290-b9f0-8ffc03a96a46
+1709579822689	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709579847489	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 1782 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+[Child 92991, MediaDecoderStateMachine #1] WARNING: 119ffe760 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:324
+[Child 92991, MediaDecoderStateMachine #1] WARNING: 138544310 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:324
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 3346 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 3346 > eval line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+e@https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 3346 > eval line 1 > eval line 1 > eval:1:708
+
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s, line 12: TypeError: can't access dead object
+1709580209632	Marionette	INFO	Stopped listening on port 51409
+JavaScript error: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval, line 3346: TypeError: can't access dead object
+1709580223504	geckodriver	INFO	Listening on 127.0.0.1:62395
+1709580224021	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofiletyXfL1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709580224549	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709580224933	Marionette	INFO	Listening on port 62446
+WebDriver BiDi listening on ws://127.0.0.1:62396
+Read port: 62446
+1709580225289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62396/devtools/browser/f2f1f3aa-0bf3-4459-88bb-481d6020e9ee
+1709580230007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709580255845	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1709580347402	geckodriver	INFO	Listening on 127.0.0.1:49451
+1709580347920	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileTL50GE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709580348447	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709580348862	Marionette	INFO	Listening on port 49506
+WebDriver BiDi listening on ws://127.0.0.1:49452
+Read port: 49506
+1709580349138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49452/devtools/browser/eebef7d8-06a2-450c-b97d-8c2d131c5ecf
+1709580353787	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+[Child 93184, MediaDecoderStateMachine #1] WARNING: Decoder=118c0c100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 93184, MediaDecoderStateMachine #1] WARNING: Decoder=118c0c100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+1709580380053	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1709580454087	geckodriver	INFO	Listening on 127.0.0.1:52417
+1709580454603	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilempmKtz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709580455130	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709580455546	Marionette	INFO	Listening on port 52472
+WebDriver BiDi listening on ws://127.0.0.1:52418
+Read port: 52472
+1709580455920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52418/devtools/browser/87fce933-f9f1-4f30-ace4-7f0a7ae26145
+1709580460693	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709580486008	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Child 93253, MediaDecoderStateMachine #1] WARNING: 1314e3310 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:324
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450950/pagestyle22 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+[Child 93253, MediaDecoderStateMachine #1] WARNING: 117256bb0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:324
+JavaScript warning: https://www.google.com/js/th/7vEzNoryYsA7EpvUhbfIa9YaTD8kthBTv2MD7n7t8t0.js line 2 > eval line 5679 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1727: Script terminated by timeout at:
+Usa/this.done</<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1727:177
+EventListener.handleEvent*Usa/this.done<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1727:135
+Usa@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1727:90
+an/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1705:385
+sa@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:43:401
+vaa/this.next@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:45:169
+waa/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:51:5
+waa@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:50:8
+t@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:51:37
+an@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1705:61
+$m.prototype.put@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1703:41
+cva/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1928:343
+sa@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:43:401
+vaa/this.next@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:45:169
+b@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:48:87
+promise callback*h@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:50:91
+waa/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:51:2
+waa@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:50:8
+t@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:51:37
+cva@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1928:38
+f.sendAndWrite@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1904:55
+Qn.prototype.sendAndWrite@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2006:116
+M$a@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:6692:206
+hab.prototype.send/<@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:12407:783
+fC.prototype.then@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:8702:577
+hab.prototype.send@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:12407:690
+xab@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:6775:82
+L3a@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:6800:381
+Obb@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:6962:20
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:12517:109
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:10684:62
+dU/a.state.B[b]@https://www.youtube.com/s/player/31eb286a/player_ias.vflset/es_MX/base.js:4829:53
+wsb/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:8024:77
+maybeSendAbandonmentPing_@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:17724:112
+created/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:17686:58
+Rp.prototype.runImmediateJobsSync/</<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2636:283
+S@https://www.youtube.com/s/desktop/77953cee/jsbin/scheduler.vflset/scheduler.js:44:19
+ra@https://www.youtube.com/s/desktop/77953cee/jsbin/scheduler.vflset/scheduler.js:39:261
+Ca@https://www.youtube.com/s/desktop/77953cee/jsbin/scheduler.vflset/scheduler.js:61:28
+rm@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1642:3
+Rp.prototype.runImmediateJobsSync@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2636:189
+iEa/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2635:24
+CK.prototype.runDispose@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9493:112
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2632:2
+CK.prototype.runPreventableDispose@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9492:524
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2632:2
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9489:54
+
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+1709580641764	Marionette	INFO	Stopped listening on port 52472
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1709580648664	geckodriver	INFO	Listening on 127.0.0.1:57723
+1709580649181	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilevskKzx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709580649722	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709580650107	Marionette	INFO	Listening on port 57776
+Read port: 57776
+WebDriver BiDi listening on ws://127.0.0.1:57724
+1709580650334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57724/devtools/browser/a77ba3f3-7848-40a8-a3ab-0d063f2ce187
+1709580655221	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709580680201	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 4490 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1727: Script terminated by timeout at:
+Usa/this.done</<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:1727:177
+
+1709580953861	Marionette	INFO	Stopped listening on port 57776
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=pgg7ciV1Vfk&t=2277s&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval, line 4490: TypeError: can't access dead object
+1709580962065	geckodriver	INFO	Listening on 127.0.0.1:49860
+1709580962584	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilepfNcT1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709580963126	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709580963512	Marionette	INFO	Listening on port 49915
+WebDriver BiDi listening on ws://127.0.0.1:49861
+Read port: 49915
+1709580963741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49861/devtools/browser/bdd5a513-bc05-4c89-9679-afdd97aa9182
+1709580968441	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709580994518	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709581015701	geckodriver	INFO	Listening on 127.0.0.1:51379
+1709581016216	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileKm427R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709581016740	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709581017150	Marionette	INFO	Listening on port 51433
+Read port: 51433
+WebDriver BiDi listening on ws://127.0.0.1:51380
+1709581017369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 4377 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+DevTools listening on ws://127.0.0.1:51380/devtools/browser/2112e432-d1df-436b-ab1e-f921652969ca
+1709581021788	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709581046912	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/Hg8RJ6IYDEt2XfeS9TTatHSj5NgA1bkUUg8jx44YVvw.js line 2 > eval line 5697 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2630: Script terminated by timeout at:
+Rp.prototype.transition@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:2630:33
+CK/<@https://www.youtube.com/s/desktop/77953cee/jsbin/desktop_polymer.vflset/desktop_polymer.js:9488:114
+
+1709582149222	Marionette	INFO	Stopped listening on port 51433
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1709582150136	Marionette	INFO	Stopped listening on port 49915
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."

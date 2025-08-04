@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cellular-dream-453617-a2",
+  "private_key_id": "32feaf2d5d97cce892e30f0445a3980d26305491",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZojKZbMqW/n6V\nPXLtiv4wYtIumr9bwDCzC+S9ut1Hn+2hWWcOa6dmumV/jLbwhZzWluxxdywjSdyt\nvbmwH+MsUirUufTwyOiVIobxdqFDtLk2CXl26bAeMxzihj/Xdi6D+ac0TJIIUKvk\n1LEhJ7j4FBn2FJ/hdCrQP02jzBoKDC3xM42VjHiGGf2eWkh6WA4o2NRl9rsFVfwa\nJP5+XnqlXc2MSkUNHCQuocKhed+kKhdajA1+I95762YoQONi1I7ndfupaIkyeK2C\ns689ss2FrEIVzi7qhoWMvBFUyg140D3NyCyGY2tXJQh7MCN4g6lU+9U9fe5UxePM\nlXjsAuktAgMBAAECggEAFIeRlmHswneYh63R7T8tD18tMfAY0RRiDZLxyo6tYhRT\nZ0Owm0M0d+xBguVVTtez6RL63oCrw71rgUYAibIBI9uJAKsmuYRHXCJkgOC21PrR\n4xAqDINWtvpiijyhTFPtDFKwjrMKspTBG492afVKaNAa1gDUioaA8Bn9cH1mH2Bj\nP33jEZ7dAExWgR20oDzvnHswiblcrwzdcNLzD9lsnXfOgzNPnqWZDX+Js4uhOSU8\n97Ri4tp3TNUBT0mPd9W5Ai0+by/iGjMfbEPoCL53yoKbvQ3AAUw+jBoXLkGjo7eJ\nB4O9ULhXI/RhZoRsjvEAuT6aZ5bPfBGBvqN+JCZgWwKBgQDL5Gt1HhkhQe4kvcsw\nuTNN6svAMg62NcQ8gXiXumHvgAwrVe9fJeG6H3iFgIpyuFNtiAYFBGl4OqP0mO0y\nC4YcgLC4bQTCxjj4wwb5Cws7MTDNeyvF4Xe8aPkGGja+yzu+Q56IxH3iEfmzVHvc\nUS7SWAh0E9P0/fq8gM5cTST+QwKBgQDA5Z8NTLrWyVt8lAXxgYSi+AgM6XDE6Xtu\nE8IjiaPAipTEBN7MagGUzu9/5G4Fk+jXqPH4TZtKwOW+7bxZy0O5KSCYVSAb5SGu\nXWMCRR1VAHFkctXT683DcaWR1Rn7i9OWpW2nMYAL5lb6+SLyyzRm57B9/p0JYFpL\nO4wKSbLbzwKBgGxloeN//ug5fvw1kwLyUx5Hh89ETaH9b7ijNJOl2U9VCiM36qzx\nHNKwzIhdUD2xVVlUCa89Kz1qH6R4cRI8Ii6hFFLYUsGiVMOcG+bnQi9T9ZgotZrc\nRaX7QPlHkndY4QhENtKLdEluOQxoC/mTh4r4lnXv3K3RIS56ZDuaH+K1AoGBAKvE\nTOtU5hMY3oSCcwBo6qkL4G9O+AIAPs74fSmUCOMNBAfApnyz8JCH7LCfwnDpEq/n\nWwBWavAX8P0hSVVUMQwSWVoMgzkTwfg4ZE/DJ6lnaZGeyFWbZnChJGRFtItQKau9\nx3TYGUN/avi1HK/CzvjLW1f2f/O3fu/7KGqI0eH1AoGAJexo94+OLhUS7iuN2ab2\ni8qnIh+lczEeh8cZMoGKQGMrVxHarHRoWYGiRLduxtXYhNNkCsH585g43rp8BMx+\nM7dCkqK3boNUieGNgQj0Z2SU9yYCfnE/AIWruiCNwyPur43ik7QZuX+abBRMLS0I\nKumqQ1GBZr/6UyDVyPNBaVs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tiktok-videos-ecuador@cellular-dream-453617-a2.iam.gserviceaccount.com",
+  "client_id": "113506747098144046965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tiktok-videos-ecuador%40cellular-dream-453617-a2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

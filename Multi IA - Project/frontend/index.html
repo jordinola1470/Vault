@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi Prompter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <h1>AI Multi Prompter</h1>
+        <nav class="menu_options">
+            <ul class="list_options">
+                <li><a href="https://chatgpt.com/"      target="_blank" class="link_menu">Chat GPT</a></li>
+                <li><a href="https://chat.deepseek.com" target="_blank" class="link_menu">Deep Seek</a></li>
+                <li><a href="" target="_blank" class="link_menu">Gemini</a></li>
+            </ul>
+        </nav>
+        <a href="#"><button class ="button" id="button_contact" type="button" onclick="sendPrompt()">Contact</button></a>
+    </header>
+    
+
+    <main class="main_container">
+        <div class="prompt_area">
+            <textarea class="text_area" id="textarea_prompt" placeholder="Write your query in here" ></textarea>
+            <button class ="button" id="button_send" onclick="sendInput()">Send</button>
+        </div>
+
+        <div class="responses">
+            
+            <div class="responses-box" id="response_openai">
+                <h2>Chat GPT</h2>
+                <div class="responses-contenido" id="contenido_openai"></div>
+            </div>
+
+            
+            
+            <div class="responses-box" id="response_deepseek"><h2>DeepSeek</h2><p></p></div>
+            
+            
+            <div class="responses-box" id="response_claude"><h2>Gemini</h2><p></p></div>
+
+
+        </div>
+
+
+    </main>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="app.js"></script>
+    
+
+</body>
+</html>

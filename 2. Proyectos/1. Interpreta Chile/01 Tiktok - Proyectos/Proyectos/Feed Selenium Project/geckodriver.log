@@ -1,0 +1,1009 @@
+1709516114537	geckodriver	INFO	Listening on 127.0.0.1:51061
+1709516115041	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileue6bnE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709516115766	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709516116330	Marionette	INFO	Listening on port 51070
+Read port: 51070
+WebDriver BiDi listening on ws://127.0.0.1:51062
+1709516116569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51062/devtools/browser/2dfa7c4b-67b4-46ef-be54-df11f368e0e6
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709516145798	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js?bid=tiktok_webapp&globalName=SlardarClient, line 1: Script terminated by timeout at:
+_n/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js?bid=tiktok_webapp&globalName=SlardarClient:1:11170
+
+1709516193289	Marionette	INFO	Stopped listening on port 51070
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1709516193414	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+[ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1709516549111	geckodriver	INFO	Listening on 127.0.0.1:51182
+1709516549631	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileu5BQn6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709516550223	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709516550687	Marionette	INFO	Listening on port 51188
+Read port: 51188
+WebDriver BiDi listening on ws://127.0.0.1:51183
+1709516550929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51183/devtools/browser/9486e7ec-de84-498f-a777-7bd5c7c0cc84
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709516580647	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709517268824	geckodriver	INFO	Listening on 127.0.0.1:51305
+1709517269345	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofile62Qz9O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709517269930	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709517270429	Marionette	INFO	Listening on port 51311
+WebDriver BiDi listening on ws://127.0.0.1:51306
+Read port: 51311
+1709517270729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51306/devtools/browser/000e7c4f-3c32-42e6-8dac-188da9f0d6e1
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709517300129	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709517440018	geckodriver	INFO	Listening on 127.0.0.1:51397
+1709517440539	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofile0ByBiR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709517441118	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709517441642	Marionette	INFO	Listening on port 51403
+Read port: 51403
+WebDriver BiDi listening on ws://127.0.0.1:51398
+1709517441878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51398/devtools/browser/79805ce1-2938-4967-a295-1abd17d44fc0
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709517471199	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709517639200	geckodriver	INFO	Listening on 127.0.0.1:51496
+1709517639718	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileO7QfEs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709517640330	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709517640903	Marionette	INFO	Listening on port 51503
+Read port: 51503
+WebDriver BiDi listening on ws://127.0.0.1:51497
+1709517641144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51497/devtools/browser/3ea6edde-75c3-4cbd-8819-c947604bfcdd
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709517670368	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js, line 40: Script terminated by timeout at:
+a@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:293044
+
+1709517743535	Marionette	INFO	Stopped listening on port 51503
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1709517900864	geckodriver	INFO	Listening on 127.0.0.1:51616
+1709517901383	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileFWkm6d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709517902040	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709517902538	Marionette	INFO	Listening on port 51624
+WebDriver BiDi listening on ws://127.0.0.1:51617
+Read port: 51624
+1709517902845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51617/devtools/browser/41000024-fdd9-490e-b5ce-cdfd40627543
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709517932245	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js, line 40: Script terminated by timeout at:
+x@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:1039775
+u@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:571265
+10967/it<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:138682
+ll@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:82594
+Al@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:90738
+Qi@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:136729
+Nu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121968
+_u@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121896
+Cu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121757
+yu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:118744
+46955/Za/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68516
+56800/t.unstable_runWithPriority@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:162435
+Ha@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68293
+Za@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68463
+qa@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68396
+du@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:116129
+Ol@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:87892
+50297/b/r<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:1:47514
+10967/it</nt<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:142436
+10967/Ye</ke<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:132501
+10967/We</V<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:120323
+10727/e.exports</value/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-d801507b.b33c61d223e766c78d14.js:2:224723
+value@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-d801507b.b33c61d223e766c78d14.js:2:224688
+10727/e.exports</n/b</<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-d801507b.b33c61d223e766c78d14.js:2:225638
+
+1709518003436	Marionette	INFO	Stopped listening on port 51624
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1709518046431	geckodriver	INFO	Listening on 127.0.0.1:51735
+1709518046949	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileYwUydm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709518047538	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709518048004	Marionette	INFO	Listening on port 51741
+WebDriver BiDi listening on ws://127.0.0.1:51736
+Read port: 51741
+1709518048381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51736/devtools/browser/ede086ca-a1ef-4852-bd20-2dfaf035f62a
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709518079906	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js?bid=tiktok_webapp&globalName=SlardarClient, line 1: Script terminated by timeout at:
+_n/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js?bid=tiktok_webapp&globalName=SlardarClient:1:11170
+
+1709518150945	Marionette	INFO	Stopped listening on port 51741
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1709518955865	geckodriver	INFO	Listening on 127.0.0.1:52080
+1709518956383	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileoxoj4P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709518957072	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709518957641	Marionette	INFO	Listening on port 52089
+Read port: 52089
+WebDriver BiDi listening on ws://127.0.0.1:52081
+1709518957887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52081/devtools/browser/aacffcd9-1ef5-4f32-9abe-5818ee7eb83e
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709518987166	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js?bid=tiktok_webapp&globalName=SlardarClient, line 1: Script terminated by timeout at:
+_n/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/slardar/fe/sdk-web/browser.sg.js?bid=tiktok_webapp&globalName=SlardarClient:1:11170
+
+1709519007401	Marionette	INFO	Stopped listening on port 52089
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1709519013939	geckodriver	INFO	Listening on 127.0.0.1:52186
+1709519014459	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileVRCPyO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709519015039	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709519015541	Marionette	INFO	Listening on port 52194
+Read port: 52194
+WebDriver BiDi listening on ws://127.0.0.1:52187
+1709519015782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52187/devtools/browser/4f00cdc9-dd68-4f8f-a4db-7f2911568abb
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709519046953	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js, line 40: Script terminated by timeout at:
+s@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:295640
+M@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:545304
+p@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:1:55220
+10967/it<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:137770
+ll@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:82594
+Al@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:90738
+Qi@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:136729
+Nu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121968
+_u@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121896
+Cu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121757
+yu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:118744
+46955/Za/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68516
+56800/t.unstable_runWithPriority@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:162435
+Ha@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68293
+Za@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68463
+qa@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68396
+du@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:116129
+Ol@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:87892
+50297/b/r<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:1:47514
+10967/it</nt<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:142436
+10967/Ye</ke<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:132501
+10967/We</V<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:120323
+10727/e.exports</value/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-d801507b.b33c61d223e766c78d14.js:2:224723
+value@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-d801507b.b33c61d223e766c78d14.js:2:224688
+10727/e.exports</n/b</<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-d801507b.b33c61d223e766c78d14.js:2:225638
+
+1709519158868	Marionette	INFO	Stopped listening on port 52194
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1709519278328	geckodriver	INFO	Listening on 127.0.0.1:52345
+1709519278849	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileewLWTF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709519279465	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709519280011	Marionette	INFO	Listening on port 52355
+Read port: 52355
+WebDriver BiDi listening on ws://127.0.0.1:52346
+1709519280246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52346/devtools/browser/8cc5bd29-3a5f-4604-ace0-f55730001e23
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709519310682	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-dp-byted-tea-sdk-oversea.8988e4519576af83a498.js, line 1: Script terminated by timeout at:
+2185/e.prototype.getReady@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-dp-byted-tea-sdk-oversea.8988e4519576af83a498.js:1:36535
+2185/e.prototype.report@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-dp-byted-tea-sdk-oversea.8988e4519576af83a498.js:1:27413
+2185/e.prototype.event/this.reportTimeout<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-dp-byted-tea-sdk-oversea.8988e4519576af83a498.js:1:26577
+
+1709519375874	Marionette	INFO	Stopped listening on port 52355
+1709519388871	geckodriver	INFO	Listening on 127.0.0.1:52503
+1709519389389	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilevBz0bS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709519389991	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709519390503	Marionette	INFO	Listening on port 52511
+Read port: 52511
+WebDriver BiDi listening on ws://127.0.0.1:52504
+1709519390745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52504/devtools/browser/34c63c12-5fd0-4d18-b200-0a8e6f43768f
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709519422561	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-dp-byted-tea-sdk-oversea.8988e4519576af83a498.js, line 1: Script terminated by timeout at:
+2185/e.prototype.event/this.reportTimeout<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-dp-byted-tea-sdk-oversea.8988e4519576af83a498.js:1:26575
+
+1709519441950	Marionette	INFO	Stopped listening on port 52511
+1709519444688	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1709519484119	geckodriver	INFO	Listening on 127.0.0.1:52614
+1709519484639	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilebesLrP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709519485217	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709519485654	Marionette	INFO	Listening on port 52623
+WebDriver BiDi listening on ws://127.0.0.1:52615
+Read port: 52623
+1709519486005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52615/devtools/browser/735e691f-eb4f-45b4-aa8f-b0bd69c09341
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709519515245	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709519790285	geckodriver	INFO	Listening on 127.0.0.1:52754
+1709519790806	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofile7ifc3m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709519791312	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709519791702	Marionette	INFO	Listening on port 52763
+WebDriver BiDi listening on ws://127.0.0.1:52755
+Read port: 52763
+1709519792070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52755/devtools/browser/1b929514-500c-4862-a900-d7a72ae561d2
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709519824491	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-dp-byted-tea-sdk-oversea.8988e4519576af83a498.js, line 1: Script terminated by timeout at:
+2185/e.prototype.event/this.reportTimeout<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-dp-byted-tea-sdk-oversea.8988e4519576af83a498.js:1:26575
+
+1709519886225	Marionette	INFO	Stopped listening on port 52763
+1709520006116	geckodriver	INFO	Listening on 127.0.0.1:52886
+1709520006636	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileOxuUHN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709520007172	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709520007559	Marionette	INFO	Listening on port 52894
+WebDriver BiDi listening on ws://127.0.0.1:52887
+Read port: 52894
+1709520007854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52887/devtools/browser/b91ffaf6-f4ec-4fa9-a5c7-80229058313b
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709520037206	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709520464494	geckodriver	INFO	Listening on 127.0.0.1:53029
+1709520465016	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileYIKq2i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709520465549	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709520465937	Marionette	INFO	Listening on port 53037
+WebDriver BiDi listening on ws://127.0.0.1:53030
+Read port: 53037
+1709520466242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53030/devtools/browser/36f8daa7-a338-4d94-9765-1c7861f4aee2
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709520495578	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-dp-byted-tea-sdk-oversea.8988e4519576af83a498.js, line 1: Script terminated by timeout at:
+2185/e.prototype.event/this.reportTimeout<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-dp-byted-tea-sdk-oversea.8988e4519576af83a498.js:1:26575
+
+1709520558956	Marionette	INFO	Stopped listening on port 53037
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js, line 2: Script terminated by timeout at:
+Yt@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:47144
+
+1709520561436	Marionette	INFO	Stopped listening on port 52894
+1709520700304	geckodriver	INFO	Listening on 127.0.0.1:53160
+1709520700823	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileadExVh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709520701334	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709520701721	Marionette	INFO	Listening on port 53166
+WebDriver BiDi listening on ws://127.0.0.1:53161
+Read port: 53166
+1709520702074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53161/devtools/browser/aa91c65d-1659-487d-970a-9318001226e8
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709520731589	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js, line 2: Script terminated by timeout at:
+ol@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:82391
+wl@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:86615
+xl@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:86756
+88805/t.useEffect@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:158170
+10967/it<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:136312
+ll@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:82594
+Al@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:90738
+Qi@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:136729
+Nu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121968
+_u@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121896
+Cu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121757
+yu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:118744
+46955/Za/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68516
+56800/t.unstable_runWithPriority@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:162435
+Ha@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68293
+Za@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68463
+qa@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68396
+du@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:116129
+Ol@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:87892
+50297/b/r<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:1:47514
+10967/it</nt<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:142436
+10967/Ye</ke<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:132501
+10967/We</V<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:120323
+10727/e.exports</value/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-d801507b.b33c61d223e766c78d14.js:2:224723
+value@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-d801507b.b33c61d223e766c78d14.js:2:224688
+10727/e.exports</n/b</<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-d801507b.b33c61d223e766c78d14.js:2:225638
+
+1709520865354	Marionette	INFO	Stopped listening on port 53166
+1709521134602	geckodriver	INFO	Listening on 127.0.0.1:53295
+1709521135124	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileqybFLi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709521135651	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709521136040	Marionette	INFO	Listening on port 53303
+WebDriver BiDi listening on ws://127.0.0.1:53296
+Read port: 53303
+1709521136326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53296/devtools/browser/1c123d8a-b894-44c3-8543-ce71365d2ca7
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709521167696	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1709521285572	Marionette	INFO	Stopped listening on port 53303
+1709521739321	geckodriver	INFO	Listening on 127.0.0.1:53463
+1709521739829	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilezV4VAG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709521740329	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709521740713	Marionette	INFO	Listening on port 53470
+WebDriver BiDi listening on ws://127.0.0.1:53464
+Read port: 53470
+1709521741003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53464/devtools/browser/b6bec247-36b3-4006-8485-22b815fd44c5
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709521770710	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js, line 2: Script terminated by timeout at:
+Kl@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:106235
+oi@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:99672
+Tu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:122144
+Nu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:122027
+_u@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121896
+Cu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121757
+yu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:118744
+46955/Za/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68516
+56800/t.unstable_runWithPriority@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:162435
+Ha@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68293
+Za@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68463
+qa@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68396
+du@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:116129
+Ol@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:87892
+50297/x/i<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:1:47981
+a@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:293059
+
+1709522083676	Marionette	INFO	Stopped listening on port 53470
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+1709522336222	geckodriver	INFO	Listening on 127.0.0.1:53652
+1709522336741	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileoqQcs6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709522337261	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709522337645	Marionette	INFO	Listening on port 53661
+WebDriver BiDi listening on ws://127.0.0.1:53653
+Read port: 53661
+1709522337934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53653/devtools/browser/23cf28fb-d1ee-46c1-b403-f358e7da47ed
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709522367484	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-sigi.1464493259fff44e7493.js, line 1: Script terminated by timeout at:
+l@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-sigi.1464493259fff44e7493.js:1:23519
+l@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:296610
+v@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:291269
+y@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:291453
+x@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:292169
+H@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:547334
+10967/it<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:20:145347
+ll@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:82594
+Al@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:90738
+Qi@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:136729
+Nu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121968
+_u@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121896
+Cu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:121757
+yu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:118744
+46955/Za/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68516
+56800/t.unstable_runWithPriority@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:162435
+Ha@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68293
+Za@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68463
+qa@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68396
+du@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:116129
+Ol@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:87892
+50297/x/i<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:1:47981
+a@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:293059
+
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+1709523526324	Marionette	INFO	Stopped listening on port 53661
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1709523655215	geckodriver	INFO	Listening on 127.0.0.1:53947
+1709523655736	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofile0qnRwJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709523656318	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709523656840	Marionette	INFO	Listening on port 53954
+Read port: 53954
+WebDriver BiDi listening on ws://127.0.0.1:53948
+1709523657103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53948/devtools/browser/0b6d1b1d-bc05-4262-853b-3999809fa9d6
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709523687620	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+Handler function threw an exception: Error: Got notified about channel 24814173554323 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:279:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:684:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:342:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 279, column: 13
+console.error: (new Error("Got notified about channel 24814173554323 more than once.", "resource://devtools/server/actors/resources/network-events.js", 279))
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+1709524442794	geckodriver	INFO	Listening on 127.0.0.1:54120
+1709524443306	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileV3LCez"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709524443808	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709524444204	Marionette	INFO	Listening on port 54127
+WebDriver BiDi listening on ws://127.0.0.1:54121
+Read port: 54127
+1709524444488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54121/devtools/browser/ccab4054-2ca1-48ff-9e4a-3dbfea0ce298
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709524474249	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal6442450945/domnode477, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 213 getMutations
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js, line 2: Script terminated by timeout at:
+Yt@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:47144
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1709525146601	Marionette	INFO	Stopped listening on port 52623
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/vendor.0c54e414ed00691c5a92.js, line 2: Script terminated by timeout at:
+l@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/vendor.0c54e414ed00691c5a92.js:2:303042
+
+1709525148054	Marionette	INFO	Stopped listening on port 54127
+1709525707571	geckodriver	INFO	Listening on 127.0.0.1:54462
+1709525708090	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileyfL42O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709525708821	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1709525709298	Marionette	INFO	Listening on port 54470
+WebDriver BiDi listening on ws://127.0.0.1:54463
+Read port: 54470
+1709525709612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54463/devtools/browser/9cc4320c-9232-4f03-9287-2697529543cf
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.115/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_va.700f767fd3dc58e3c4cc.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.136/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709525739075	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js, line 2: Script terminated by timeout at:
+mr@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:54845
+Lu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:123606
+56800/t.unstable_runWithPriority@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:162435
+Ha@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68293
+Ou@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:122860
+yu@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:118969
+46955/Za/<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68516
+56800/t.unstable_runWithPriority@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:162435
+Ha@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68293
+Za@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68463
+qa@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:68396
+du@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:116129
+Ol@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-react.26e0b05d9d6e00d93e96.js:2:87892
+50297/x/i<@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/9768.850e53514e67f90e3688.js:1:47981
+a@https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/webapp-desktop.b8081ebcbb639c498ba9.js:40:293059
+
+1709527549303	Marionette	INFO	Stopped listening on port 54470
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
