@@ -131,6 +131,65 @@ def extraer_comentarios_desde_lista(lista_textos):
     return resultados
 
 
-# resultado = extraer_comentarios_desde_lista(texto_scrap)
-# for r in resultado:
-#     print(r)
+
+def extraer_ultimos_dos_por_bloque(lista):
+    resultado = []
+    bloque = []
+    i = 0
+
+    while i < len(lista):
+        if lista[i] == '' and i + 1 < len(lista) and lista[i + 1] == '':
+            if bloque:
+                resultado.append(bloque[-2:])
+                bloque = []
+            i += 2
+        else:
+            bloque.append(lista[i])
+            i += 1
+
+    if bloque:
+        resultado.append(bloque[-2:])
+
+    return resultado
+
+
+def extraer_ultimos_optimizado(lista):
+    """
+    Recorre una lista dividiéndola en bloques separados por dos strings vacíos consecutivos ('', ''),
+    y devuelve solo los últimos dos elementos de cada bloque.
+
+    Optimización:
+    - Uso de iteración directa en lugar de while con índices.
+    - Acumulación en lista y reset rápido sin rebanadas costosas.
+    - Evita comprobaciones repetidas de longitud.
+    """
+
+    lista = lista[1:]
+
+    resultado = []
+    bloque = []
+    vacio = ''  # alias para comparación rápida
+
+    # Recorrer cada elemento
+    skip = False  # bandera para saltar el siguiente si se detecta '' ''
+    for idx, elem in enumerate(lista):
+        if skip:  # si el elemento anterior ya provocó un salto, lo omitimos
+            skip = False
+            continue
+
+        # Detectar doble vacío consecutivo
+        if elem == vacio and idx + 1 < len(lista) and lista[idx + 1] == vacio:
+            if bloque:  # si hay bloque acumulado, guardar últimos dos
+                resultado.append(bloque[-2:])
+                bloque.clear()
+            skip = True  # saltar el siguiente vacío
+        else:
+            bloque.append(elem)
+
+    # Añadir último bloque si no termina en vacío
+    if bloque:
+        resultado.append(bloque[-2:])
+
+    # del resultado[0]   
+
+    return resultado
