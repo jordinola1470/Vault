@@ -278,3 +278,380 @@ JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D
 C@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:239:1463
 L/E<@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:239:2396
 
+1754421982943	geckodriver	INFO	Listening on 127.0.0.1:50768
+1754421983434	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofilefBGFWX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1754421984384	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1754421985373	Marionette	INFO	Listening on port 50779
+Read port: 50779
+WebDriver BiDi listening on ws://127.0.0.1:50769
+1754421985647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iwNk4/yt/l/es_ES/-K_MWwI6uya.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yw/l/es_ES-j/-K_MWwI6uya.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yw/l/es_ES-j/-K_MWwI6uya.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1754422348598	Marionette	INFO	Stopped listening on port 50779
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js, line 1293: Script terminated by timeout at:
+log@https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js:1293:5586
+N/<@https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js:1293:1647
+ea/<@https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js:1293:5509
+b.enqueue@https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js:1292:665
+N@https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js:1293:1618
+e/l<@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:250:978
+applyWithGuard@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:76:10373
+c@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:76:11107
+I@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:239:1889
+
+1754422448096	geckodriver	INFO	Listening on 127.0.0.1:50964
+1754422448606	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileu5e28w"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1754422449602	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1754422450389	Marionette	INFO	Listening on port 50974
+Read port: 50974
+WebDriver BiDi listening on ws://127.0.0.1:50965
+1754422450674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iwNk4/yt/l/es_ES/-K_MWwI6uya.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yw/l/es_ES-j/-K_MWwI6uya.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yw/l/es_ES-j/-K_MWwI6uya.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v4isa44/yN/l/es_ES-j/61SqxF9oQ2S.js, line 376: JSONParseError: Response contained invalid JSON.
+Reason: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+<redacted in prod, use dev to see the text>
+1754422746460	Marionette	INFO	Stopped listening on port 50974
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iDts4/ya/l/es_ES-j/QSi_z6GKT1DsNm4OtLLJfDtfOfp6ZAT4hmDtIelFi_WM47_TReLKRzbAi2x76EHLF1ebPGwKpaZY6cgrQ73zlF32L3IspHXMumd9Ci4Ds99tvGYO8bKu-ZGWi6Y1nExrOTSCGHRwXQuKR3mwuAtyC21nNIXxCesgf7zuje67dfUkZo5z.js, line 474: Script terminated by timeout at:
+c.encodeData@https://static.cdninstagram.com/rsrc.php/v4iDts4/ya/l/es_ES-j/QSi_z6GKT1DsNm4OtLLJfDtfOfp6ZAT4hmDtIelFi_WM47_TReLKRzbAi2x76EHLF1ebPGwKpaZY6cgrQ73zlF32L3IspHXMumd9Ci4Ds99tvGYO8bKu-ZGWi6Y1nExrOTSCGHRwXQuKR3mwuAtyC21nNIXxCesgf7zuje67dfUkZo5z.js:474:6034
+e.$15@https://static.cdninstagram.com/rsrc.php/v4iDts4/ya/l/es_ES-j/QSi_z6GKT1DsNm4OtLLJfDtfOfp6ZAT4hmDtIelFi_WM47_TReLKRzbAi2x76EHLF1ebPGwKpaZY6cgrQ73zlF32L3IspHXMumd9Ci4Ds99tvGYO8bKu-ZGWi6Y1nExrOTSCGHRwXQuKR3mwuAtyC21nNIXxCesgf7zuje67dfUkZo5z.js:482:3890
+a<@https://static.cdninstagram.com/rsrc.php/v4iDts4/ya/l/es_ES-j/QSi_z6GKT1DsNm4OtLLJfDtfOfp6ZAT4hmDtIelFi_WM47_TReLKRzbAi2x76EHLF1ebPGwKpaZY6cgrQ73zlF32L3IspHXMumd9Ci4Ds99tvGYO8bKu-ZGWi6Y1nExrOTSCGHRwXQuKR3mwuAtyC21nNIXxCesgf7zuje67dfUkZo5z.js:482:883
+h@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:150:125
+g@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:150:350
+a/</<@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:150:409
+a/<@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:150:277
+c@https://static.cdninstagram.com/rsrc.php/v4iDts4/ya/l/es_ES-j/QSi_z6GKT1DsNm4OtLLJfDtfOfp6ZAT4hmDtIelFi_WM47_TReLKRzbAi2x76EHLF1ebPGwKpaZY6cgrQ73zlF32L3IspHXMumd9Ci4Ds99tvGYO8bKu-ZGWi6Y1nExrOTSCGHRwXQuKR3mwuAtyC21nNIXxCesgf7zuje67dfUkZo5z.js:482:1045
+e.$24@https://static.cdninstagram.com/rsrc.php/v4iDts4/ya/l/es_ES-j/QSi_z6GKT1DsNm4OtLLJfDtfOfp6ZAT4hmDtIelFi_WM47_TReLKRzbAi2x76EHLF1ebPGwKpaZY6cgrQ73zlF32L3IspHXMumd9Ci4Ds99tvGYO8bKu-ZGWi6Y1nExrOTSCGHRwXQuKR3mwuAtyC21nNIXxCesgf7zuje67dfUkZo5z.js:498:7352
+e.amendWithAck@https://static.cdninstagram.com/rsrc.php/v4iDts4/ya/l/es_ES-j/QSi_z6GKT1DsNm4OtLLJfDtfOfp6ZAT4hmDtIelFi_WM47_TReLKRzbAi2x76EHLF1ebPGwKpaZY6cgrQ73zlF32L3IspHXMumd9Ci4Ds99tvGYO8bKu-ZGWi6Y1nExrOTSCGHRwXQuKR3mwuAtyC21nNIXxCesgf7zuje67dfUkZo5z.js:498:4088
+log@https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js:1293:5667
+N/<@https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js:1293:1647
+ea/<@https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js:1293:5509
+b.enqueue@https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js:1292:665
+N@https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js:1293:1618
+e/l<@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:250:978
+applyWithGuard@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:76:10373
+c@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:76:11107
+I@https://static.cdninstagram.com/rsrc.php/v4/y5/r/cKfMRAHc07D.js:239:1889
+
+1754422783618	geckodriver	INFO	Listening on 127.0.0.1:51120
+1754422784127	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileEm58IL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1754422784792	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1754422785453	Marionette	INFO	Listening on port 51128
+WebDriver BiDi listening on ws://127.0.0.1:51121
+Read port: 51128
+1754422785753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iwNk4/yt/l/es_ES/-K_MWwI6uya.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yw/l/es_ES-j/-K_MWwI6uya.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yw/l/es_ES-j/-K_MWwI6uya.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1754423237807	Marionette	INFO	Stopped listening on port 51128
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js, line 1045: Script terminated by timeout at:
+Sq@https://static.cdninstagram.com/rsrc.php/v4isHl4/yn/l/es_ES-j/ckI_9Ix6GBF-0L0lJcYrrTmbNRfjw6sBx_XYK48U8VGRQGB-GETEwxKow80mo9qTtzuagYfb5DQrLn7C0sw25CzMrOBntOJoNgmWk1ymQg_olv8l7MaJDp5IvTp1YugJNy8-VFJcL9Q9C5ewC2xIGhUAnW1Set1c-r4kYVxbbj_dZe1-dwWRP9Csl6dATG_KZPN0u-7elMCCRhk6NqC4yFZDpUV2zrrtR-qoiqvohDSJLSS6HDopZYkz3vww-.js:1045:214215
+
