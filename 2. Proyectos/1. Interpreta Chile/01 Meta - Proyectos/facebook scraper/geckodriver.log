@@ -1,0 +1,14 @@
+1754614001667	geckodriver	INFO	Listening on 127.0.0.1:54478
+1754614002182	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileqW4Oa0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1754614002803	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1754614003508	Marionette	INFO	Listening on port 54487
+WebDriver BiDi listening on ws://127.0.0.1:54479
+Read port: 54487
+1754614003730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v4iQyZ4/yO/l/es_ES~es_LA-j/m21CcP07d-E.js, line 105: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v4ihVQ4/yI/l/es_ES~es_LA-j/pHKjPQeIo-I.js, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3624: TypeError: this._windows[aWindow.__SSi] is undefined
