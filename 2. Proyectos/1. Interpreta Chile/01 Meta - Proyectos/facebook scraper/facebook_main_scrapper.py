@@ -180,10 +180,13 @@ def ManagerFaceBookScrapper (url,medio):
         print(f"Error detectado: {e}")
 
 
-
-    driver.quit()
+    # driver.quit()
     print("Excel generado con éxito 🎉")   
     
+
+
+# EJECUCION DE LA FUNCIN DESDE MAIN
+
 
 def main(url):
     comentarios = ManagerFaceBookScrapper(url,medio=None)
@@ -192,11 +195,34 @@ def main(url):
 if __name__ == "__main__":
 
     list_url = [
-    # "https://www.facebook.com/adncl/posts/pfbid0dimR8jJYrbtkjZ7Vq2kufnMpa5r1Xty38mohvTWT7ssvJnQVDtgYDhTQ8EDiy3KZl",
-    # "https://www.facebook.com/laterceracom/posts/pfbid02RqYJnUGiV66iGV4NfjDfUda5SixnBL9qQJoaJBZXz4789Xp8nKk29MomF72EVkNel",
-    "https://www.facebook.com/thecliniccl/posts/pfbid02sVRG7cnEbHE8fxhDS18sf6dmNs5HcejpKw58x511c3DT1qqPwPeoVZ15LjQDgPw1l",
-    "https://www.facebook.com/thecliniccl/posts/pfbid0uvCLbWU43SnqcvtNQEg8sxbag7chVHY4NN3ccFse1fFrM43EGAyWjn5qDR21GWFl",
-    "https://www.facebook.com/thecliniccl/posts/pfbid038H9wE8q4Ag5BsD7emEogPKbHtbvXG6XYaZCHoeMaJt53X4KJqPqqWoecodPsQGjml"
+ 
+
+    "https://www.facebook.com/reel/1337294501383533/",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid0prxzfoBpjfgCzKr72V1TsZJqc2JuTXtUpkGNbAPEW7PkrvNpEwHXc7fnRX4AGdjjl",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid02sBQKS4NE8LairjEUg8tVrTsQgsXdGFtzUreKSSBeUdJBCfvgtX1WztxwyqaZi5Rbl",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid0e22R6dfkFhY55BAXZ3U8GHcCBTTX5JiKqWSeD7p8prkamaLNn3gT83mtMv2MKJokl",
+    # "https://www.facebook.com/reel/1435740184312468/",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid02NSRJJY6KVdcuzjKgXzJmxUp1hFUBFkGjxGp1vxtGszu9QAN98eDh5gkUP6XVRc3fl",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid0KD8EGBczmcBBSAeKQHCwKT7mXjBaphgb63gVRMA5SbzjD88RfLbToPbYzcrUDX53l",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid0DsWp1cwvqsaSdXEPcwDk2hZKDboRb2iVGNEvSVtwKA55hY6kYLYRBf9hPrF9z8Uil",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid0WZzNiswKd8q1AYmmiTNHJXHvnpcize2C75PzUxxgYjV3mvLWfifrrR9yxeVbChAWl",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid031sQb5NU8YzsvH5195HCYcDbFMfv6jhGnZ2mYfKSRdGcZYwPN2Ehe6n1vaNiQ2gj6l",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid02QmcznCpCyTLvpMoDrWy9QjKUnkwPkzRddxhK9ejXi9ZgrhbR2AyhYTfCMMV5go9El",
+    # "https://www.facebook.com/reel/1281245576730384/",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid02w1yPb6Wv9FWmTY4vfZYVtrSTJWSoTMbNNZRofiAktqFmBLPVvxQHahCB7J9vfcWcl",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid0RhnqZBhgicXznSD2sE3nwep5uBHBJ6pV5afib3LaAcWTyzeYnNLCiAxukZuAQmzQl",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid05ETZhnDwV5bPATYhinrZSQhpj5e7DyjtngmBLCWtXdv8tYsLdGfruW92uuwUy4KBl",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid02RJraGAfkVLA2HNy3M9cSFJdZGifoYCR87dqFj88vd5wEn1A4tNDpCs3HwSAYyhzLl",
+    # "https://www.facebook.com/reel/1184343683502729/",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid0AbVJVk4yeC4JYwYYFdX9LRDCCw2uzAb26fXQiaTfiN4ACth1uYNEyaNK1BL7aQJgl",
+    # "https://www.facebook.com/reel/1956624734881685/",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid02dogZwGqx5UJvFeqFeKrGhamETsMeiVG2g8cGXaQLKv4UZSHFD6dtzV9Qmwh5QUyJl",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid0WJNZYfNT2cNigLkw7ZW1pErhtmXhgmWqFa4uBqT26taGP1RCXPZjYJKkzarrSCpcl",
+    # "https://www.facebook.com/reel/550284528074450/",
+    # "https://www.facebook.com/reel/23966051129690672/",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid02gDgzh6R2FQfqRKuuaTnmSXQDYpDUdm83hWxUZYRCQMbjPMMEeuujijaqFqRqcmgLl",
+    # "https://www.facebook.com/PCdeChile/posts/pfbid0WEYs9ZxLY4WSNLLvAUTozbA5jeVyuotyyEjLTMWmphbuYfyo5BPPsucWEnMPWDxml"
 ]
+
     for url in list_url:
         main(url)
