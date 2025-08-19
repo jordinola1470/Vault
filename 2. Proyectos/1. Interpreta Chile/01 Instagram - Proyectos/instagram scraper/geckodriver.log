@@ -1038,3 +1038,101 @@ JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4/yW/r/1J8euomJk24.js, line 239: Script terminated by timeout at:
 L/E<@https://static.cdninstagram.com/rsrc.php/v4/yW/r/1J8euomJk24.js:239:2395
 
+1755494828726	geckodriver	INFO	Listening on 127.0.0.1:55282
+1755494829217	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileLASLy4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1755494830410	Marionette	INFO	Marionette enabled
+1755494831001	Marionette	INFO	Listening on port 55294
+Read port: 55294
+WebDriver BiDi listening on ws://127.0.0.1:55283
+1755494831195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: RSLoader: Recipe train-hop-pilot-to-beta-start-and-wait-for-escape-hatch-signal not returned from collection nimbus-secure-experiments because it contains feature newtabTrainhopAddon, which is disallowed for that collection.
+console.warn: RSLoader: Recipe train-hop-pilot-to-beta-start-and-wait-for-major-version-bump not returned from collection nimbus-secure-experiments because it contains feature newtabTrainhopAddon, which is disallowed for that collection.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iwNk4/ym/l/es_ES/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 4310: TypeError: can't access property "closedGroups", winData is undefined
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v4/yW/r/1J8euomJk24.js, line 244: Script terminated by timeout at:
+a@https://static.xx.fbcdn.net/rsrc.php/v4/yW/r/1J8euomJk24.js:244:107
+p@https://static.xx.fbcdn.net/rsrc.php/v4/yW/r/1J8euomJk24.js:246:878
+m/<@https://static.xx.fbcdn.net/rsrc.php/v4/yW/r/1J8euomJk24.js:246:418
+
+1755503607168	geckodriver	INFO	Listening on 127.0.0.1:57409
+1755503607682	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/45/_6zmnwkn6638scvzx_7pz4_m0000gn/T/rust_mozprofileqTjn3p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1755503608565	Marionette	INFO	Marionette enabled
+1755503609029	Marionette	INFO	Listening on port 57420
+Read port: 57420
+WebDriver BiDi listening on ws://127.0.0.1:57410
+1755503609210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: RSLoader: Recipe train-hop-pilot-to-beta-start-and-wait-for-escape-hatch-signal not returned from collection nimbus-secure-experiments because it contains feature newtabTrainhopAddon, which is disallowed for that collection.
+console.warn: RSLoader: Recipe train-hop-pilot-to-beta-start-and-wait-for-major-version-bump not returned from collection nimbus-secure-experiments because it contains feature newtabTrainhopAddon, which is disallowed for that collection.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iwNk4/ym/l/es_ES/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v4/yW/r/1J8euomJk24.js, line 76: Script terminated by timeout at:
+c@https://static.xx.fbcdn.net/rsrc.php/v4/yW/r/1J8euomJk24.js:76:11023
+
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yt/l/es_ES-j/zY-MAfptCzF.js, line 84: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 4310: TypeError: can't access property "closedGroups", winData is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
